@@ -26,4 +26,4 @@ function InsightsSection() {
   );
 }
 
-export default InsightsSection;ss
+export default InsightsSection;
